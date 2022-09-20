@@ -1,0 +1,30 @@
+img {
+
+    height: auto;
+    width: 250px;
+    
+    }
+    
+    body{
+    
+    background-color: #ada299;
+    color: #331a00;
+    font-style: italic;
+    text-align: left;
+    font-weight: 700;
+    
+    }
+    
+    #list1 {
+    
+        list-style-type: circle;
+        text-align:left
+        
+        }
+    
+       
+    
+            h1,h2,h3 {
+    text-decoration: underline;
+    
+            }
